@@ -42,7 +42,7 @@ The project demonstrates how **Best-First Search** and **A* Search** can be used
 
 ## Code Structure
 The repository contains a single Python file:
-- `search_algorithms.py`: Implements both **Best-First Search** and **A* Search** algorithms.
+- `bfs_and_a-star.py`: Implements both **Best-First Search** and **A* Search** algorithms.
 
 ### Key Components
 1. **Heuristic Dictionary**: Stores the straight-line distance from each city to Bucharest.
