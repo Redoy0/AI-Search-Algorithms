@@ -15,9 +15,7 @@ The algorithms are applied to a graph representing the map of Romania, with citi
    - [A* Search](#a-search)
 3. [Code Structure](#code-structure)
 4. [How to Run](#how-to-run)
-5. [Example Output](#example-output)
-6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ---
 
